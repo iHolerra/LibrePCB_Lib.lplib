@@ -3,7 +3,7 @@
  (description "")
  (keywords "")
  (author "Adrian")
- (version "0.3")
+ (version "0.4")
  (created 2023-08-29T08:18:34Z)
  (deprecated false)
  (url "https://github.com/iHolerra/LibrePCB_Lib")
