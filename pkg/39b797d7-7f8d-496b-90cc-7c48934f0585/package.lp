@@ -133,7 +133,7 @@
    (width 0.1) (fill false) (grab_area false) (diameter 0.1) (position -0.3 0.7)
   )
   (stroke_text 6975fae2-1dcd-429c-a8d9-2095818078a5 (layer top_names)
-   (height 1.0) (stroke_width 0.1) (letter_spacing auto) (line_spacing auto)
+   (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing auto)
    (align center bottom) (position 0.0 1.6) (rotation 0.0)
    (auto_rotate true) (mirror false) (value "{{NAME}}")
   )

@@ -1,5 +1,5 @@
 (librepcb_package 743e610a-c7d6-44e7-972b-84f881483cfe
- (name "LED-SMT-1608 (0603)")
+ (name "LED SMT 1608 (0603)")
  (description "Generic SMT LED 1608 (Imperial 0603)\n\nLength: 1.6mm\nWidth: 0.8mm")
  (keywords "")
  (author "adrian.kiechl")
