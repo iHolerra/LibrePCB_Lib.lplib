@@ -1,6 +1,6 @@
 (librepcb_device 60c4ab59-5268-4045-b793-c3dc815664eb
- (name "DMN2029USD")
- (description "20V DUAL N-CHANNEL ENHANCEMENT MODE MOSFET")
+ (name "MOSFET N-Channel Dual")
+ (description "Generic N-Channel MOSFET Dual")
  (keywords "")
  (author "adrian.kiechl")
  (version "0.1")
@@ -19,5 +19,6 @@
  (pad ca7a042a-80b0-4499-bb1e-f4a4c285bfa5 (signal 8863a83a-265e-429d-9ea5-6078a3d38fc6))
  (pad e7d9d938-5347-44d2-9bb5-63543f981b49 (signal 82c94805-0c5f-4863-9fa6-e6299dd566db))
  (part "DMN2029USD" (manufacturer "DIODES Inc.")
+  (attribute "RDSON" (type resistance) (unit milliohm) (value "25"))
  )
 )

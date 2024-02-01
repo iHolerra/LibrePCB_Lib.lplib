@@ -1,6 +1,6 @@
 (librepcb_device c94d7201-aeb3-4839-bbb6-b67288c06fe1
  (name "MOSFET N-Channel Dual")
- (description "A N-Channel MOSFET Dual")
+ (description "Generic N-Channel MOSFET Dual")
  (keywords "")
  (author "adrian.kiechl")
  (version "0.1")
@@ -17,5 +17,9 @@
  (pad 9d502d56-164f-4965-b44e-8dd31a332dec (signal 8863a83a-265e-429d-9ea5-6078a3d38fc6))
  (pad aa5383bd-3e9b-413c-9ac7-2aa16a24cf85 (signal 3f7a6e32-71a0-4398-9b79-429fe5d244f4))
  (part "BSS138BKS" (manufacturer "Nexpedia")
+  (attribute "RDSON" (type resistance) (unit ohm) (value "1.6"))
+ )
+ (part "PMGD175XNEX" (manufacturer "Nexpedia")
+  (attribute "RDSON" (type resistance) (unit milliohm) (value "250"))
  )
 )
