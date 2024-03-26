@@ -1,0 +1,10 @@
+(librepcb_component_category 25a49aa6-2aa0-4d23-8e70-d75eaf453485
+ (name "Darlington Transistor")
+ (description "Darlington Transistor ICs")
+ (keywords "")
+ (author "adrian.kiechl")
+ (version "0.1")
+ (created 2023-09-19T07:22:33Z)
+ (deprecated false)
+ (parent 8226f987-124b-4776-9084-3821dd51c272)
+)

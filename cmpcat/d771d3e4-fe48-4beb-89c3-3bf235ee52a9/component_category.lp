@@ -1,0 +1,10 @@
+(librepcb_component_category d771d3e4-fe48-4beb-89c3-3bf235ee52a9
+ (name "Touch Sensors")
+ (description "Touch Sensor ICs")
+ (keywords "")
+ (author "adrian.kiechl")
+ (version "0.1")
+ (created 2023-10-02T11:26:14Z)
+ (deprecated false)
+ (parent 5347fa0a-108b-4fa0-b97d-947d35c218be)
+)
