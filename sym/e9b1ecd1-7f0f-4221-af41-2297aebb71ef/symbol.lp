@@ -2,7 +2,7 @@
  (name "PIC16F17175")
  (description "8-Bit Microcontroller, 14kB Flash, 1kB RAM, 128B EEPROM, 35I/O")
  (keywords "")
- (author "Holerra")
+ (author "adrian.kiechl")
  (version "0.1")
  (created 2024-03-17T09:22:08Z)
  (deprecated false)

@@ -9,7 +9,7 @@
  (generated_by "")
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
  (schematic_only false)
- (default_value "{{NPM or Device}}")
+ (default_value "{{MPN or DEVICE}}")
  (prefix "IC")
  (signal 6b9675d6-ede9-4380-9b21-130d7517ab60 (name "RB7/ICSPDAT") (role passive)
   (required false) (negated false) (clock false) (forced_net "")

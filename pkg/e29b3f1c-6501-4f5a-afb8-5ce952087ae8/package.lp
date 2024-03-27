@@ -2,7 +2,7 @@
  (name "IN-PI33TBTPRPGPB")
  (description "3535 RGB LED 4-Pin with Integrated IC")
  (keywords "")
- (author "")
+ (author "adrian.kiechl")
  (version "0.1")
  (created 2024-03-10T21:30:02Z)
  (deprecated false)

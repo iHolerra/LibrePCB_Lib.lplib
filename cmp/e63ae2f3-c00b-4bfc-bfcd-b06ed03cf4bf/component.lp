@@ -9,7 +9,7 @@
  (generated_by "")
  (category bfe2b7c8-1aa0-49f1-9f27-e015d65af08e)
  (schematic_only false)
- (default_value "{{MPN or Device}}")
+ (default_value "{{MPN or DEVICE}}")
  (prefix "MMC")
  (signal be04a09f-1b63-4e2d-9309-8fdb6dd593eb (name "SCK") (role passive)
   (required false) (negated false) (clock false) (forced_net "")

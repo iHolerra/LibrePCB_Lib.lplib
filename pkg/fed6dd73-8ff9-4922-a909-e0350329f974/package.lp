@@ -2,7 +2,7 @@
  (name "VLMRGB6112")
  (description "Multi SMD LED RGB")
  (keywords "")
- (author "Adrian Kiechl")
+ (author "adrian.kiechl")
  (version "0.1")
  (created 2024-01-03T22:39:59Z)
  (deprecated false)
