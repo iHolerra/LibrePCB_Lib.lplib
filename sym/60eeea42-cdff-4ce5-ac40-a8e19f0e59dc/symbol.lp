@@ -1,0 +1,10 @@
+(librepcb_symbol 60eeea42-cdff-4ce5-ac40-a8e19f0e59dc
+ (name "asd")
+ (description "")
+ (keywords "")
+ (author "Holerra")
+ (version "0.1")
+ (created 2024-03-30T23:44:52Z)
+ (deprecated false)
+ (generated_by "")
+)
