@@ -1,5 +1,5 @@
 (librepcb_symbol caebbdf7-2bee-4d45-a16b-db5779924339
- (name "74HC138")
+ (name "Demultiplexer inverting")
  (description "3-to-8 line decoder/demultiplexer; inverting")
  (keywords "")
  (author "adrian.kiechl")

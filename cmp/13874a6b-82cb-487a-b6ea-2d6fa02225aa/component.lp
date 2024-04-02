@@ -1,5 +1,5 @@
 (librepcb_component 13874a6b-82cb-487a-b6ea-2d6fa02225aa
- (name "74HC4050")
+ (name "Hexa Level Shifter")
  (description "Hex non-inverting HIGH-to-LOW level shifter")
  (keywords "")
  (author "adrian.kiechl")

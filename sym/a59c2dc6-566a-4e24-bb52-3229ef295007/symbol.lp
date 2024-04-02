@@ -1,5 +1,5 @@
 (librepcb_symbol a59c2dc6-566a-4e24-bb52-3229ef295007
- (name "23LC1024")
+ (name "SRAM")
  (description "1MBit SPI Serial SRAM witg SDI and SQI Interface")
  (keywords "")
  (author "adrian.kiechl")

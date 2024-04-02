@@ -1,5 +1,5 @@
 (librepcb_symbol cdb9cd09-e999-4852-b7ce-ef3ed628b09b
- (name "74HC4050")
+ (name "Hexa Level Shiter")
  (description "Hex non-inverting HIGH-to-LOW level shifter")
  (keywords "")
  (author "adrian.kiechl")

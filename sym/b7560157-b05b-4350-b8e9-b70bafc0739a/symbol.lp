@@ -1,5 +1,5 @@
 (librepcb_symbol b7560157-b05b-4350-b8e9-b70bafc0739a
- (name "25LC128")
+ (name "EEPROM")
  (description "128K SPI BUS Serial EEPROM")
  (keywords "")
  (author "adrian.kiechl")

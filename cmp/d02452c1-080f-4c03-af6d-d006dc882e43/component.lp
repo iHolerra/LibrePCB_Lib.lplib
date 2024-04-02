@@ -1,5 +1,5 @@
 (librepcb_component d02452c1-080f-4c03-af6d-d006dc882e43
- (name "74HC175")
+ (name "Quad D Flip-Flop")
  (description "Quad D-Type Flip-Flop, with Clear")
  (keywords "")
  (author "adrian.kiechl")

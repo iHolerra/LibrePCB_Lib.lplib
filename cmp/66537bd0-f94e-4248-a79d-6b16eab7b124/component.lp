@@ -1,5 +1,5 @@
 (librepcb_component 66537bd0-f94e-4248-a79d-6b16eab7b124
- (name "74HCT14")
+ (name "Inverter")
  (description "Hex inverting Schmitt trigger")
  (keywords "Inverter")
  (author "adrian.kiechl")

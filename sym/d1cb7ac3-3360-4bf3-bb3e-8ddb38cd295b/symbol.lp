@@ -1,5 +1,5 @@
 (librepcb_symbol d1cb7ac3-3360-4bf3-bb3e-8ddb38cd295b
- (name "74HC238")
+ (name "Demultiplexer")
  (description "3-to-8 line decoder/demultiplexer")
  (keywords "")
  (author "adrian.kiechl")

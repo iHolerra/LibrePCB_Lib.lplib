@@ -1,5 +1,5 @@
 (librepcb_symbol 3423c35f-94d1-4a12-ab2c-bb220a53fe0e
- (name "74HCT541")
+ (name "Octal Tri-State")
  (description "Octal buffer/line driver; 3-state")
  (keywords "")
  (author "adrian.kiechl")
