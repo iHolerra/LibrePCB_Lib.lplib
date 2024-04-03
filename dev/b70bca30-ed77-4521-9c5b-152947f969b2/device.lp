@@ -1,5 +1,5 @@
 (librepcb_device b70bca30-ed77-4521-9c5b-152947f969b2
- (name "ULN2003A")
+ (name "ULN2003")
  (description "Darlington Transistor Array")
  (keywords "")
  (author "adrian.kiechl")
@@ -26,4 +26,6 @@
  (pad ba5e7628-b4e5-413c-a2ff-6fe3070b7d5d (signal ca63dc34-a010-425b-9b48-40ed68f0f5e4))
  (pad cf5a7a21-d7b1-4aa9-b88a-cb9f162411c6 (signal b598246e-ab6c-4c1f-8436-4defbf6a3f0b))
  (pad ddc82c96-e0ab-4cd3-b5c0-279b03a07d15 (signal 92100e90-cf78-4d9e-8abb-3e568e2dc494))
+ (part "ULN2003D1013TR" (manufacturer "STMicroelectronics")
+ )
 )

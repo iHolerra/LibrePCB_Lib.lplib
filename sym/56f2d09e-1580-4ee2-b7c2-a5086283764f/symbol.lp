@@ -1,5 +1,5 @@
 (librepcb_symbol 56f2d09e-1580-4ee2-b7c2-a5086283764f
- (name "CAP1293-1-SN")
+ (name "Capacitive Touch Sensor")
  (description "Capacitive Touch Sensor")
  (keywords "")
  (author "adrian.kiechl")

@@ -1,5 +1,5 @@
 (librepcb_component 51f7ffe2-0cac-4d27-8a43-8fb49579e0c8
- (name "ULN2003A")
+ (name "Darlington Transistor Arrays")
  (description "Darlington Transistor Arrays")
  (keywords "")
  (author "adrian.kiechl")
