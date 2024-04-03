@@ -1,5 +1,5 @@
 (librepcb_component 0d66a6bc-5856-4df3-b18a-a54a70e85a42
- (name "Demultiplexer inverting")
+ (name "Demultiplexer 3:8 inverting")
  (description "3-to-8 line decoder/demultiplexer; inverting")
  (keywords "")
  (author "adrian.kiechl")
