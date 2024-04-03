@@ -20,3 +20,6 @@ Thumbs.db
 *.autosave
 *.swp
 *.tmp
+
+# Files added by me
+gitAll.sh
