@@ -1,5 +1,5 @@
 (librepcb_device 84709a08-1da5-401c-9811-36eac7e259d9
- (name "74HCT14")
+ (name "74HC14")
  (description "Hex inverting Schmitt trigger")
  (keywords "")
  (author "adrian.kiechl")

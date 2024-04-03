@@ -1,5 +1,5 @@
 (librepcb_device 4a28de0b-051e-4dc4-addd-7f2f2327c56f
- (name "74HCT541")
+ (name "74HC541")
  (description "Octal buffer/line driver; 3-state")
  (keywords "")
  (author "adrian.kiechl")

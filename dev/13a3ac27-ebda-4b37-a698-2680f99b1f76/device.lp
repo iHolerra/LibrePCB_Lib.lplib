@@ -1,5 +1,5 @@
 (librepcb_device 13a3ac27-ebda-4b37-a698-2680f99b1f76
- (name "Demultiplexer 4:16 Inverting")
+ (name "74HC154")
  (description "4-to-16 line decoder/demultiplexer; inverting")
  (keywords "")
  (author "adrian.kiechl")
@@ -35,7 +35,5 @@
  (pad f089997b-4c2a-4dc9-9236-1f14954d684e (signal 876722e0-daf2-4b40-bd94-f24190ef78a1))
  (pad f803c821-3f89-4617-9eb7-c23e74ea27ce (signal 6be2f071-c834-41a7-830e-198b5e040fbd))
  (part "74HC154PW,118" (manufacturer "Nexpedia")
- )
- (part "CD74HC154M96" (manufacturer "Texas Instruments")
  )
 )
