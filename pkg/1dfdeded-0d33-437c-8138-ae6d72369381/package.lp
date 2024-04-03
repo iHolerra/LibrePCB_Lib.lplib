@@ -1,6 +1,6 @@
 (librepcb_package 1dfdeded-0d33-437c-8138-ae6d72369381
  (name "4609H-101")
- (description "")
+ (description "Resistor Network Bussed")
  (keywords "")
  (author "adrian.kiechl")
  (version "0.1")

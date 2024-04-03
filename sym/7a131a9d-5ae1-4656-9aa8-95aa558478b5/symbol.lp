@@ -1,6 +1,6 @@
 (librepcb_symbol 7a131a9d-5ae1-4656-9aa8-95aa558478b5
- (name "VLMRGB6112")
- (description "Multi SMD LED RGB")
+ (name "RGB LED")
+ (description "Multi SMD LED RGB\nThree Input - Three Output")
  (keywords "")
  (author "Adrian Kiechl")
  (version "0.1")

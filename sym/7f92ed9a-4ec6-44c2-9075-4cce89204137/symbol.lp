@@ -1,6 +1,6 @@
 (librepcb_symbol 7f92ed9a-4ec6-44c2-9075-4cce89204137
- (name "DS01-254-S-01BE")
- (description "DIP-Switch 1x")
+ (name "1x Switch")
+ (description "General Purpose 1x Switch")
  (keywords "")
  (author "adrian.kiechl")
  (version "0.1")

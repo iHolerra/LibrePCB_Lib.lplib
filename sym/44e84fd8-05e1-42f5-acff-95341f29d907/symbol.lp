@@ -1,5 +1,5 @@
 (librepcb_symbol 44e84fd8-05e1-42f5-acff-95341f29d907
- (name "NE555")
+ (name "555-Timer")
  (description "NE555, TLC555, MC1455")
  (keywords "")
  (author "adrian.kiechl")

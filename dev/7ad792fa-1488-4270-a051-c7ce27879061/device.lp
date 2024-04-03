@@ -1,10 +1,10 @@
-(librepcb_device d24ebeca-25d0-464e-b27c-9dcc1b87a2b1
- (name "25LC128")
- (description "128K SPI BUS Serial EEPROM")
+(librepcb_device 7ad792fa-1488-4270-a051-c7ce27879061
+ (name "EEPROM THT")
+ (description "GP EE")
  (keywords "")
  (author "adrian.kiechl")
  (version "0.1")
- (created 2024-01-22T11:27:41Z)
+ (created 2024-04-03T10:17:18Z)
  (deprecated false)
  (generated_by "")
  (category f81c3abf-dfbe-4464-b4d9-cc9824959f56)
@@ -18,4 +18,8 @@
  (pad a193ba1f-6f5c-4bff-b5d0-93810ce154c4 (signal 094512f3-c401-4635-bdd5-5d2bdff083d9))
  (pad c8ce3c8f-d3ca-484a-aeea-882badbfd039 (signal cc2f039d-9b20-4b24-af55-426ba5dddd07))
  (pad fc6081c5-2de5-4306-916b-c4f860e790d2 (signal 15c9a673-36ae-461f-a2ec-07a6a32409a6))
+ (attribute "MEMORY" (type string) (unit none) (value "128kByte"))
+ (part "25LC128" (manufacturer "Microchip")
+  (attribute "MEMORY" (type string) (unit none) (value "128kByte"))
+ )
 )

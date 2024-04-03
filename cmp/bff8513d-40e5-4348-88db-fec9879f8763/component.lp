@@ -1,5 +1,5 @@
 (librepcb_component bff8513d-40e5-4348-88db-fec9879f8763
- (name "TL431")
+ (name "Voltage Reference")
  (description "Adjustable precision shunt regulator")
  (keywords "")
  (author "adrian.kiechl")

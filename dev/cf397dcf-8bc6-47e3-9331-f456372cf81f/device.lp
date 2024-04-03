@@ -1,6 +1,6 @@
 (librepcb_device cf397dcf-8bc6-47e3-9331-f456372cf81f
  (name "TL431")
- (description "Adjustable precision shunt regulators")
+ (description "Adjustable precision shunt regulators\nReference Voltage: 2.495V")
  (keywords "")
  (author "adrian.kiechl")
  (version "0.1")

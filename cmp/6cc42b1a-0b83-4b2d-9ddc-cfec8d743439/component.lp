@@ -1,5 +1,5 @@
 (librepcb_component 6cc42b1a-0b83-4b2d-9ddc-cfec8d743439
- (name "IN-PI33TBTPRPGPB")
+ (name "Programmable RGB LED")
  (description "3535 RGB LED 4-Pin with Integrated IC")
  (keywords "")
  (author "adrian.kiechl")

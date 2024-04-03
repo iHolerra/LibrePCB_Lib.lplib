@@ -1,6 +1,6 @@
 (librepcb_device e790b911-0793-4304-9c7a-570a7645cb5f
- (name "23LC1024")
- (description "1MBit SPI Serial SRAM witg SDI and SQI Interface")
+ (name "SRAM THT")
+ (description "General Purpose SPI Serial SRAM witg SDI and SQI Interface")
  (keywords "")
  (author "adrian.kiechl")
  (version "0.1")
@@ -19,5 +19,6 @@
  (pad c8ce3c8f-d3ca-484a-aeea-882badbfd039 (signal 09c5e035-6d18-4089-ae7d-cc46f716d6ac))
  (pad fc6081c5-2de5-4306-916b-c4f860e790d2 (signal 64a9d25f-61cb-4cb7-8441-4fad0fb88735))
  (part "23LC1024-I/P" (manufacturer "Microchip")
+  (attribute "MEMORY" (type string) (unit none) (value "1024Bit"))
  )
 )

@@ -1,6 +1,6 @@
 (librepcb_symbol ee5d8bf1-ac58-46ed-9091-24c4c7a79310
- (name "DS01-254-S-08BE")
- (description "DIP-Switch 8x")
+ (name "8x Switch")
+ (description "General Purpose 8x Switch")
  (keywords "")
  (author "adrian.kiechl")
  (version "0.1")
