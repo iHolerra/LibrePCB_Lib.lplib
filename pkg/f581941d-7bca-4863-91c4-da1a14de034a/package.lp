@@ -11,10 +11,12 @@
  (assembly_type auto)
  (pad 9d8705e9-2ac1-4314-8253-0924fb5084f3 (name "A"))
  (pad 5779bead-e8fb-4ef8-b5cc-7aa61a2c5d33 (name "C"))
+ (3d_model 7cf765a2-07b2-475f-9c4b-09acccca453c (name "Download_STP_WL-SMCW-0805 (rev1)"))
  (footprint e9756858-dad0-455b-8578-2213017e7221
   (name "default")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model 7cf765a2-07b2-475f-9c4b-09acccca453c)
   (pad 7af76b98-b0b1-4e78-b0af-ab9de5ca29de (side top) (shape roundrect)
    (position 1.05 0.0) (rotation 0.0) (size 1.1 1.3) (radius 0.2)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

@@ -15,10 +15,12 @@
  (pad cff5031b-f58c-486b-b919-7da266bbd76e (name "ID"))
  (pad 587b9183-91c5-4306-bc49-73361b920c22 (name "GND"))
  (pad c04a2f0f-7193-42a8-9847-59867cb4c05d (name "SHIELD"))
+ (3d_model 4277065e-4f2b-47e7-843a-3b0c66c4f893 (name "105164-0001"))
  (footprint 211ddee4-0cb8-4c03-ad6b-347950a60b2b
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 2.0 0.0) (3d_rotation 90.0 0.0 0.0)
+  (3d_model 4277065e-4f2b-47e7-843a-3b0c66c4f893)
   (pad d65440f7-b3ba-406e-9c92-452814210858 (side top) (shape roundrect)
    (position -1.3 0.69) (rotation 270.0) (size 1.38 0.45) (radius 0.0)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

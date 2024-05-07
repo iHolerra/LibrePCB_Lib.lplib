@@ -15,10 +15,12 @@
  (pad 828a3637-00ae-41be-b5bd-13017eebed7d (name "4"))
  (pad 8ceeb5de-0994-4214-8c92-a33d736a7f2c (name "5"))
  (pad 8ef69506-e284-4f54-aae0-e223e4ae53c2 (name "6"))
+ (3d_model 13f6453c-40a2-4d33-b123-51ab1384f7b2 (name "74LVC1T45GW"))
  (footprint d9d99174-d043-4b1f-8e08-eb9287aea6ad
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 0.0 0.0) (3d_rotation 90.0 0.0 270.0)
+  (3d_model 13f6453c-40a2-4d33-b123-51ab1384f7b2)
   (pad 55f530b3-3a90-4669-a4d1-60824f47a53c (side top) (shape roundrect)
    (position -0.8 0.65) (rotation 180.0) (size 0.7 0.3) (radius 0.5)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

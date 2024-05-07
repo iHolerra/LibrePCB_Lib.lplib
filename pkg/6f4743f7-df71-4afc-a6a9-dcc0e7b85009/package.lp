@@ -15,10 +15,12 @@
  (pad e54b5376-f9ce-4ef5-9d97-e8b228da648b (name "SDO"))
  (pad 6cb7fabf-9432-41e7-9376-a3f9530bbf3b (name "SDI"))
  (pad 5ba694bc-7b96-4b27-b0e2-5159d82e6fef (name "SCK"))
+ (3d_model 4034cc52-1ea5-408e-9769-4c55d9c20427 (name "105162-0001"))
  (footprint e6da98ad-9188-472f-81ea-64af5d62519d
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.3 0.6 0.0) (3d_rotation 90.0 0.0 0.0)
+  (3d_model 4034cc52-1ea5-408e-9769-4c55d9c20427)
   (pad db34bf71-531b-4c18-9615-674ac8b10abf (side top) (shape roundrect)
    (position 0.55 -3.5) (rotation 90.0) (size 1.0 0.5) (radius 0.5)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

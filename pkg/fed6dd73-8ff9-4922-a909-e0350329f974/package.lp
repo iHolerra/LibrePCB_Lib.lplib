@@ -15,10 +15,12 @@
  (pad adcb160a-3769-464c-a689-693532063584 (name "RGND"))
  (pad e389052a-6598-4157-bcdf-ef34cfc8f704 (name "GGND"))
  (pad 42c40bf4-6f6d-41be-a7b8-b02120ebde70 (name "BGND"))
+ (3d_model 08215955-3d9d-46fc-acb9-b72fc2f5c2f6 (name "80479LED_SMD_PLCC-6"))
  (footprint 94a024af-d8dd-4dd8-8db2-cf7864b012d4
   (name "default")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model 08215955-3d9d-46fc-acb9-b72fc2f5c2f6)
   (pad 5e18b5ac-8696-48f3-8b1b-ea461050c52b (side top) (shape roundrect)
    (position -1.45 0.0) (rotation 180.0) (size 1.25 0.6) (radius 0.5)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

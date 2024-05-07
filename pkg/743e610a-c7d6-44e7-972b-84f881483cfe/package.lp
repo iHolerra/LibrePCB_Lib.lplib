@@ -11,10 +11,12 @@
  (assembly_type auto)
  (pad cd0155f4-5ab1-4994-8753-bef013c0ed0f (name "A"))
  (pad 48b49e0e-fedf-4ad1-ab4e-4137e655917b (name "C"))
+ (3d_model f30d7aee-beb4-4fb1-9349-ac814d021a21 (name "STP_150060xS75000 (rev1)"))
  (footprint b2935fae-7932-468c-a1ef-c2a2995ca2ce
   (name "default")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model f30d7aee-beb4-4fb1-9349-ac814d021a21)
   (pad 9bbe9ad6-53ee-4245-a669-37d7286852f0 (side top) (shape roundrect)
    (position 0.8 0.0) (rotation 0.0) (size 0.8 0.8) (radius 0.5)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)
