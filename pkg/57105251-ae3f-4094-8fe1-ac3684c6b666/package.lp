@@ -11,10 +11,12 @@
  (assembly_type auto)
  (pad 04234d66-ebec-44b4-a948-d22b7bd77112 (name "1"))
  (pad ae2638c2-a1dd-41ba-9320-13672e473d37 (name "2"))
+ (3d_model 5c84c480-bc05-4eb0-94db-472b00614bca (name "Taster"))
  (footprint 6a298945-ce42-4a35-a107-38496b71a3d3
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 3.0 -1.75 0.0) (3d_rotation 0.0 0.0 90.0)
+  (3d_model 5c84c480-bc05-4eb0-94db-472b00614bca)
   (pad cadfc5c2-798d-491c-96de-1b6c2052015e (side top) (shape roundrect)
    (position -3.4 0.0) (rotation 0.0) (size 2.4 1.5) (radius 0.33)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

@@ -11,10 +11,12 @@
  (assembly_type auto)
  (pad 34320d86-8a92-4685-be51-b64810dc5efb (name "C"))
  (pad b586af93-00a9-463b-a2bf-17944067ce85 (name "A"))
+ (3d_model e51ed896-bbfe-4719-b8f7-160c17fb0f78 (name "1N4007FLTR"))
  (footprint b992209a-0630-4377-9a47-105d154562db
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 -0.05 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model e51ed896-bbfe-4719-b8f7-160c17fb0f78)
   (pad 94866a70-c965-4af2-88c6-ae199d68fee7 (side top) (shape roundrect)
    (position 1.55 0.0) (rotation 0.0) (size 1.15 1.22) (radius 0.43)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)
