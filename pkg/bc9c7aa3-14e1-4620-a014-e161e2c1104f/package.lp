@@ -12,10 +12,12 @@
  (pad 32e04f9a-2bf1-4c8f-86bb-2da52ea0165c (name "CW"))
  (pad 9189785c-1382-4536-9e2a-e72848a50fb1 (name "CCW"))
  (pad daf10833-bcd9-47e0-acee-f58b7bb6e540 (name "WIPER"))
+ (3d_model a815c0ca-816c-431e-a62b-a659950f3622 (name "PV36W103C01B00"))
  (footprint 0b50b47b-be57-4056-84f8-22f0795e536d
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 0.0 0.0) (3d_rotation 90.0 0.0 0.0)
+  (3d_model a815c0ca-816c-431e-a62b-a659950f3622)
   (pad 9c5ff48f-9caf-4738-9eb9-959c6938758d (side top) (shape roundrect)
    (position -2.5 0.0) (rotation 0.0) (size 1.5 1.5) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)

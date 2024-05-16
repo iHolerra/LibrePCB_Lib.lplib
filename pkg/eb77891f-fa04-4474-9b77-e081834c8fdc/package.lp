@@ -11,10 +11,12 @@
  (assembly_type auto)
  (pad 273f6f3e-dd65-4d5d-ad25-601c182b52e1 (name "1"))
  (pad 2410ab2e-fa23-4409-aec6-2fded9a27f3f (name "2"))
+ (3d_model 30f0cf2d-ff6b-456b-8a14-c8c305d7d888 (name "CUI_DEVICES_DS01-254-S-01BE"))
  (footprint f34b848e-b3c0-4416-aa6d-444035e55741
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 2.65 0.0) (3d_rotation 90.0 0.0 0.0)
+  (3d_model 30f0cf2d-ff6b-456b-8a14-c8c305d7d888)
   (pad ec547e40-7012-4a6d-906a-0c643af50407 (side top) (shape roundrect)
    (position -3.81 0.0) (rotation 180.0) (size 2.0 2.0) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)

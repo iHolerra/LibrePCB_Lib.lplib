@@ -12,10 +12,12 @@
  (pad 78623f1b-2ea3-4902-ba52-10b93e91784b (name "1"))
  (pad f83c588e-a410-42d4-9c15-9eed3c386461 (name "2"))
  (pad e7bac333-186e-4f86-8086-3f1ce2be26b7 (name "3"))
+ (3d_model 5288ba7b-a528-4107-959f-b148cf9ced71 (name "PV37W503C01B00"))
  (footprint 46135f35-0a48-470c-83d5-231676265df4
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 0.0 0.0) (3d_rotation 90.0 0.0 0.0)
+  (3d_model 5288ba7b-a528-4107-959f-b148cf9ced71)
   (pad 6015275c-0575-4651-99d9-197ce69408d0 (side top) (shape roundrect)
    (position -2.54 1.27) (rotation 90.0) (size 1.5 1.5) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)

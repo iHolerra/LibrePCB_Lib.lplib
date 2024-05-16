@@ -25,10 +25,12 @@
  (pad 370b500a-8d8e-4454-9ecb-070f3551938b (name "14"))
  (pad d972bc74-f4f3-47a6-8686-0bdadfc84483 (name "15"))
  (pad d4b6b59f-157c-40d9-b4ce-ec85b5a47087 (name "16"))
+ (3d_model 58bdc149-331d-42d6-9ffe-9ef1207315d4 (name "CUI_DEVICES_DS01-254-S-08BE"))
  (footprint ba20fbae-0141-46cd-839a-ed73cad1641a
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 -6.2 0.0) (3d_rotation 90.0 0.0 0.0)
+  (3d_model 58bdc149-331d-42d6-9ffe-9ef1207315d4)
   (pad 757c336e-cc79-4755-93d2-93c3aadcb7fc (side top) (shape roundrect)
    (position -3.81 8.89) (rotation 0.0) (size 2.0 2.0) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)
