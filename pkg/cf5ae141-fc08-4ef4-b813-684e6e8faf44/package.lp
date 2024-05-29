@@ -14,10 +14,12 @@
  (pad 25a146e4-1e94-457b-b4da-37f1e51fd740 (name "8"))
  (pad 38448ffb-55cb-4126-aca4-caee0ac3aaa3 (name "4"))
  (pad 532ae6d2-5be8-4397-890a-c7e6629f803a (name "C"))
+ (3d_model c7d84e92-45b6-4711-b944-3fc2d449f14f (name "220AMC10R"))
  (footprint 80d02476-ca02-43c4-ad9e-1af7491f5e0f
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 0.0 0.2) (3d_rotation 90.0 0.0 0.0)
+  (3d_model c7d84e92-45b6-4711-b944-3fc2d449f14f)
   (pad 100f975e-9a93-49d8-a921-bf803a29b9b8 (side top) (shape roundrect)
    (position -3.81 2.54) (rotation 0.0) (size 3.0 1.0) (radius 0.5)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

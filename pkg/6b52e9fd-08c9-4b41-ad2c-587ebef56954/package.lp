@@ -50,10 +50,12 @@
  (pad 7e2a4491-22b9-4163-8b88-0befff3a6385 (name "39"))
  (pad c1786db7-a5a1-45b1-bfb2-eebbd426661c (name "40"))
  (pad e91ba5a9-5606-4a8b-ab18-220ba188176e (name "GND"))
+ (3d_model 4ae135cd-e85f-42ad-bfe6-5e3f8a5dc635 (name "FH28-40S-0.5SH--3DModel-STEP-1"))
  (footprint afebad5f-c945-429d-8f4a-0f4908178381
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 2.33 -43.2 0.0) (3d_rotation 90.0 0.0 90.0)
+  (3d_model 4ae135cd-e85f-42ad-bfe6-5e3f8a5dc635)
   (pad c1a55fd4-12c6-4971-b6f0-61306e0785f2 (side top) (shape roundrect)
    (position -9.75 3.0) (rotation 90.0) (size 1.3 0.3) (radius 0.5)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

@@ -14,4 +14,6 @@
  (pad 8033f4a2-2160-4b15-af79-73dc93cff6b0 (signal 506cc849-3ab9-404f-b32d-ee08fb74dad8))
  (pad 8e4896cf-3e6f-416a-a70a-4305a98f6adc (signal 6e47eb6c-3c59-43b8-9bc0-9c831796e9f6))
  (pad ae129028-3922-4ece-96cb-52cb26be0850 (signal 66763148-963e-4298-b976-9f7585beac12))
+ (part "SHT40-AD1B-R2" (manufacturer "Sensirion")
+ )
 )

@@ -19,10 +19,12 @@
  (pad 74b21aa7-fb52-4862-9f4d-99c89934eb72 (name "8"))
  (pad 14a60cb2-08e7-4dea-a7fa-bbf9d4a1687a (name "9"))
  (pad 3fe1fa52-3b8f-4fe7-b1c0-b105ad767e01 (name "10"))
+ (3d_model 1771e1d1-56c6-4322-9571-b1662e7b9ba5 (name "EXB-D10C221J"))
  (footprint 76dc7410-2f1b-404f-98eb-9324be1bed38
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 0.0 0.0) (3d_rotation 90.0 0.0 90.0)
+  (3d_model 1771e1d1-56c6-4322-9571-b1662e7b9ba5)
   (pad 30e2814a-51ad-48d6-93fb-2ef9facacbef (side top) (shape roundrect)
    (position 0.0 1.55) (rotation 270.0) (size 0.6 0.45) (radius 0.5)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

@@ -18,10 +18,12 @@
  (pad 9736be9b-1512-4a36-ac54-d4007978c251 (name "7"))
  (pad a2a291c8-bfc3-406d-8416-40b06f0987d3 (name "8"))
  (pad 3e8d072a-dada-4958-b600-27c7a710187c (name "9"))
+ (3d_model 51393aeb-c755-4690-8a20-55a545af3e27 (name "4609h"))
  (footprint 34032dfc-429e-4b87-b802-b1dcafd16475
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 11.4 0.0 2.0) (3d_rotation 0.0 0.0 90.0)
+  (3d_model 51393aeb-c755-4690-8a20-55a545af3e27)
   (pad 7117cd8b-0322-4a67-9110-c3d8b0ca7aae (side top) (shape roundrect)
    (position -10.16 0.0) (rotation 90.0) (size 2.5 1.5) (radius 0.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)

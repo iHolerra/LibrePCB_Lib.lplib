@@ -1,6 +1,6 @@
 (librepcb_package c8fae86a-bad5-49b8-a8b7-ba4c5071909b
  (name "EXB-A10P")
- (description "Panasonic Chip Resistor Array\nRESCA6431 (Imperial 2513)\n\nLenth: 6.4mm\nWidth: 3.1mm")
+ (description "Panasonic Chip Resistor Array\nRESCA6431 (Imperial 2512)\n\nLenth: 6.4mm\nWidth: 3.1mm")
  (keywords "")
  (author "adrian.kiechl")
  (version "0.1")
@@ -19,10 +19,12 @@
  (pad b0e5f368-a011-45b6-ac9b-cbc4b7557d44 (name "8"))
  (pad 2c28914c-e40c-4492-8986-b4d3f2d11de7 (name "9"))
  (pad c722e49f-0b76-4cdd-9fd2-0352236a085a (name "10"))
+ (3d_model b28c1e74-a8be-4ee9-ae10-306f3bea04cf (name "EXB-A10P473J"))
  (footprint ed1fa3c5-32a6-46e6-b8a2-5f195344174b
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 0.0 0.0) (3d_rotation 90.0 0.0 90.0)
+  (3d_model b28c1e74-a8be-4ee9-ae10-306f3bea04cf)
   (pad 5d7ba883-eda0-4c6d-9d9c-1c234a0c0fe9 (side top) (shape roundrect)
    (position -1.25 2.54) (rotation 180.0) (size 1.8 0.7) (radius 0.5)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

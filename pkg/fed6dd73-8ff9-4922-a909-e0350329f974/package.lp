@@ -8,7 +8,7 @@
  (deprecated false)
  (generated_by "")
  (category 0764a19f-0b33-4927-906a-f4d6c522841d)
- (assembly_type auto)
+ (assembly_type smt)
  (pad 1eddd12f-bdf7-4222-9513-a45a5b931d4a (name "R"))
  (pad 3f3dc92f-8dbd-4dea-9261-70b8f1375b6b (name "B"))
  (pad 7c42a014-a8eb-4f8d-9e6b-c87a6f9d3024 (name "G"))

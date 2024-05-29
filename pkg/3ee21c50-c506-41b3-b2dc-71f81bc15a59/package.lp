@@ -1124,7 +1124,7 @@
  (footprint 9da319ca-37d0-45cb-adf1-bff4b6d93a16
   (name "SMT")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 0.0 2.9) (3d_rotation 0.0 0.0 0.0)
   (pad 96f9facc-347f-4f30-80c6-9555253fdd3d (side top) (shape roundrect)
    (position -18.415 -2.02) (rotation 180.0) (size 0.65 2.76) (radius 0.5)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

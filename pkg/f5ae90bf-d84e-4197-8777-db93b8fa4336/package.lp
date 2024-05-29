@@ -13,10 +13,12 @@
  (pad 8e4896cf-3e6f-416a-a70a-4305a98f6adc (name "2"))
  (pad 3e3ac899-aaeb-4d38-ab5b-61332cc0675b (name "3"))
  (pad 8033f4a2-2160-4b15-af79-73dc93cff6b0 (name "4"))
+ (3d_model 6e36d3c5-d1d5-448d-a9c3-a4d8c6411900 (name "SHT4x_SEN"))
  (footprint ab4206db-264b-468d-bdc3-4c01780ce5de
   (name "default")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model 6e36d3c5-d1d5-448d-a9c3-a4d8c6411900)
   (pad 17ecf226-ca4e-481c-96bd-f7ae982a0317 (side top) (shape roundrect)
    (position 0.7 0.4) (rotation 0.0) (size 0.6 0.35) (radius 0.0)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function thermal)

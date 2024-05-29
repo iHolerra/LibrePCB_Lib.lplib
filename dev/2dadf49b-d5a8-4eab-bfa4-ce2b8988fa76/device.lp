@@ -1,6 +1,6 @@
 (librepcb_device 2dadf49b-d5a8-4eab-bfa4-ce2b8988fa76
  (name "SMT Button")
- (description "Würth: 434121043816")
+ (description "Taster SMT, NO")
  (keywords "")
  (author "adrian.kiechl")
  (version "0.1")
@@ -13,5 +13,7 @@
  (pad 04234d66-ebec-44b4-a948-d22b7bd77112 (signal 33616b61-b981-452a-a672-e564bfabf6b1))
  (pad ae2638c2-a1dd-41ba-9320-13672e473d37 (signal 4c215f30-3492-4a32-94d3-7f3541afb7db))
  (part "434121043816" (manufacturer "Würth Elektronik")
+ )
+ (part "PTS636 SM43 SMTR LFS" (manufacturer "C&K")
  )
 )
