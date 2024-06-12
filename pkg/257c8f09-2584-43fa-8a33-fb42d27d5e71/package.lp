@@ -12,10 +12,12 @@
  (pad 5eea919a-2a4d-468d-bbe9-d6aa9a52950d (name "1"))
  (pad 7d71cac8-bbdf-460e-a99b-fac9d96d6944 (name "2"))
  (pad b7001273-bb8e-45f7-b1a7-07ce8a09d243 (name "3"))
+ (3d_model c113f631-f6ce-4bc5-8b0f-753a37ffd626 (name "tc33x-2-104e"))
  (footprint 2464b993-de04-4383-8091-7ba8c179a990
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 0.1 0.0) (3d_rotation 90.0 0.0 0.0)
+  (3d_model c113f631-f6ce-4bc5-8b0f-753a37ffd626)
   (pad 910742e0-a6e1-43af-b9ff-6939ace5ed00 (side top) (shape roundrect)
    (position -1.0 -1.6) (rotation 90.0) (size 1.2 1.2) (radius 0.41)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)

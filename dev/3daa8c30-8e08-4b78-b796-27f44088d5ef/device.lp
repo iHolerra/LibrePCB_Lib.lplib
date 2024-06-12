@@ -1,5 +1,5 @@
 (librepcb_device 3daa8c30-8e08-4b78-b796-27f44088d5ef
- (name "Model 35W")
+ (name "Open Frame")
  (description "3mm Single-Turn\nOpen Frame Surface Mount\nCermet Trimming\nPotentiometer")
  (keywords "")
  (author "adrian.kiechl")
@@ -14,5 +14,7 @@
  (pad 7d71cac8-bbdf-460e-a99b-fac9d96d6944 (signal ace03f7d-91c6-4b77-95ce-2bfaa45f8285))
  (pad b7001273-bb8e-45f7-b1a7-07ce8a09d243 (signal d9c4dd5e-6935-456c-b0e6-0eaf2bbaca15))
  (part "35W" (manufacturer "TT Electronics")
+ )
+ (part "TC33X" (manufacturer "Bourns")
  )
 )
