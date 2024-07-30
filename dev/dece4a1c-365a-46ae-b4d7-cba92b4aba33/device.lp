@@ -1,5 +1,5 @@
 (librepcb_device dece4a1c-365a-46ae-b4d7-cba92b4aba33
- (name "1N4007FL")
+ (name "Diode")
  (description "General Purpose Diode Rectifier")
  (keywords "")
  (author "Holerra")
@@ -12,4 +12,8 @@
  (package dba4c3d9-3a59-4554-bbec-7f9da4996068)
  (pad 34320d86-8a92-4685-be51-b64810dc5efb (signal 343a05e0-6e9b-4317-a7de-61bd3c774b5c))
  (pad b586af93-00a9-463b-a2bf-17944067ce85 (signal daf86625-d081-4fd6-a925-14976f92263d))
+ (part "MMSD4148T1G" (manufacturer "Onsemi")
+ )
+ (part "1N4148W-7-F" (manufacturer "Diode Incorperated")
+ )
 )
