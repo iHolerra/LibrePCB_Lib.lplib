@@ -51,7 +51,7 @@
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)
    (package_pad 42c40bf4-6f6d-41be-a7b8-b02120ebde70)
   )
-  (polygon 0f034a06-45b1-44eb-80dd-408b40e6a586 (layer top_values)
+  (polygon 0f034a06-45b1-44eb-80dd-408b40e6a586 (layer top_documentation)
    (width 0.2) (fill false) (grab_area false)
    (vertex (position -1.6 1.4) (angle 0.0))
    (vertex (position 1.6 1.4) (angle 0.0))

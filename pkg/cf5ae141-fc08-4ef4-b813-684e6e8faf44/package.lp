@@ -60,7 +60,7 @@
   )
   (polygon 8e49da05-fcf1-4b89-9014-61a0fcdc5cc2 (layer top_legend)
    (width 0.2) (fill false) (grab_area false)
-   (vertex (position -3.5 3.5) (angle 0.0))
+   (vertex (position -5.0 3.5) (angle 0.0))
    (vertex (position 3.5 3.5) (angle 0.0))
   )
   (polygon e14539f2-e474-4227-a299-8387fc0db706 (layer top_legend)

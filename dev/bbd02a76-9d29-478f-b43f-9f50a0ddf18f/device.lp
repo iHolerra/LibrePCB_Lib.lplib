@@ -7,6 +7,7 @@
  (created 2024-07-31T06:50:58Z)
  (deprecated false)
  (generated_by "")
+ (category a621d579-8715-4edf-816e-5715f97cd2d7)
  (component 7f542dbe-a2b8-457b-81fc-f8ea82ecef7e)
  (package addf9719-77ae-4b34-806f-8bfaddba3322)
  (pad 0059632a-719a-4e30-b8db-63d2d80625a2 (signal 0a1628eb-42a4-4c94-a279-8a59468840ec))
