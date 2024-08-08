@@ -66,4 +66,6 @@
  (pad fab0f01e-b109-4461-a691-b5fd44d025fe (signal 911f5eb9-2824-4ba1-ac14-5a3c03d1f89f))
  (pad fbd975a1-3780-46b5-906c-2a75c0946881 (signal cea663cb-853f-42dd-9c7c-d32125db6136))
  (pad fc8cd19e-8523-44d3-8172-9d626b330fe4 (signal 26ae73db-fed4-42f2-9630-e65e9fcae029))
+ (part "PCA9698DGG,518" (manufacturer "NXP")
+ )
 )

@@ -30,4 +30,8 @@
  (pad cd866233-992f-43b7-91c8-39a2b7547377 (signal 1818cd4b-a9f6-4362-980f-f8f0ba02456d))
  (pad d41a10a4-93f6-4df5-8533-8c375e0e4c88 (signal 189ad5c6-a6b3-4711-9f1d-733e1ab36cf0))
  (pad dc26cc8d-ce82-462e-82d8-baf8d2aacd13 (signal 95eda14b-5b61-4588-b2b1-280f9fb6ec9a))
+ (part "74HC541PW,118" (manufacturer "Nexpedia")
+ )
+ (part "MM74HC541WM" (manufacturer "Onsemi")
+ )
 )

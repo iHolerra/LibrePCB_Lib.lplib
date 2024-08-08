@@ -54,6 +54,6 @@
  (pad ed69759c-a720-4354-b9ec-fb438c97d153 (signal 9eee2ba7-d41f-49af-a2c5-903bda93af67))
  (pad f6762142-166a-4d03-bfcf-13649bb4bf48 (signal 5598f501-ce66-4879-91e5-66ea5525f693))
  (pad fbec0238-54e1-4e2a-906a-7075c002ba24 (signal ad42bddf-9295-4ea1-a619-08c28266f561))
- (part "PIC16F17175" (manufacturer "Microchip")
+ (part "PIC16F17175T-I/PT" (manufacturer "Microchip")
  )
 )

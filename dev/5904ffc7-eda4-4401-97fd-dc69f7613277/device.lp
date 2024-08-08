@@ -24,6 +24,6 @@
  (pad bc89f832-9276-4205-9c09-667c39890574 (signal 921ca614-e19a-4fa5-8432-2f59dc2c246a))
  (pad d1034831-b2b3-4be8-afc3-837bb1593086 (signal 4aeb7f5e-0f78-499e-9efc-902aa8b93bb0))
  (pad f67314fb-0907-44b9-871b-ebccef490a26 (signal 91945aee-5223-4519-abc5-4dee56ec7ade))
- (part "MCP6499T" (manufacturer "Microchip")
+ (part "MCP6499T-E/ST" (manufacturer "Microchip")
  )
 )

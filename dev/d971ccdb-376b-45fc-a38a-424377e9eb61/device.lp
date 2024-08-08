@@ -50,4 +50,6 @@
  (pad e7dad6ca-efb3-463d-9697-b8215b58f000 (signal ab0f9d3d-45c5-4113-9300-f4661f905a85))
  (pad fa7d3d57-280d-405f-91d2-beaf78ec978f (signal cd8f3b20-cdb6-4cfd-b066-2c477ad01d2a))
  (pad fbb3045b-9c02-44fb-8def-77b1eab5f895 (signal 8567da04-2022-4669-8c0a-2d4479e06a1b))
+ (part "FH28-40S-0.5SH(05)" (manufacturer "Hirose Electric")
+ )
 )

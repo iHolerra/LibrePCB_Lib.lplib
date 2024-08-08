@@ -28,4 +28,8 @@
  (pad ddc82c96-e0ab-4cd3-b5c0-279b03a07d15 (signal 92100e90-cf78-4d9e-8abb-3e568e2dc494))
  (part "ULN2003D1013TR" (manufacturer "STMicroelectronics")
  )
+ (part "ULN2003ADR2G" (manufacturer "Onsemi")
+ )
+ (part "ULN2003ADR" (manufacturer "Texas Instruments")
+ )
 )

@@ -38,6 +38,6 @@
  (pad d8b9d190-a777-45f2-a46c-894d0f12cf1a (signal d0c4786c-1598-4cc7-ae9f-cf8d4fdc37a1))
  (pad dd7e934b-ce89-41a2-9000-a1de4a51a5d1 (signal 124e1bf2-2743-4684-8fa5-5bf83958dc13))
  (pad f3e96534-b6d9-4fa5-a37c-b0ed31992b29 (signal 9061f619-af59-4314-a31c-ae4d9c21e328))
- (part "MCP23S17" (manufacturer "Microchip")
+ (part "MCP23S17-E/SS" (manufacturer "Microchip")
  )
 )

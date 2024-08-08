@@ -14,4 +14,8 @@
  (pad 97a4a131-50d6-43b7-b729-bc444ad0e244 (signal efe51b72-31fb-4c71-9dd7-11db5e716048))
  (pad ab077e0e-67ff-48c0-b979-66c9ccc6b90f (signal efe51b72-31fb-4c71-9dd7-11db5e716048))
  (pad dff54bfb-5db6-4934-9282-29dd73df5aec (signal 34d16826-f4a3-477f-bd31-08aa5d956651))
+ (part "LM317T" (manufacturer "STMicroelectronics")
+ )
+ (part "LM317MABTG" (manufacturer "Onsemi")
+ )
 )

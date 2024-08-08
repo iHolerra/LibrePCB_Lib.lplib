@@ -1,6 +1,6 @@
 (librepcb_device 7ad792fa-1488-4270-a051-c7ce27879061
  (name "EEPROM THT")
- (description "GP EE")
+ (description "Serial SPI bus EEPROM with high-speed clock")
  (keywords "")
  (author "adrian.kiechl")
  (version "0.1")
@@ -19,7 +19,7 @@
  (pad c8ce3c8f-d3ca-484a-aeea-882badbfd039 (signal cc2f039d-9b20-4b24-af55-426ba5dddd07))
  (pad fc6081c5-2de5-4306-916b-c4f860e790d2 (signal 15c9a673-36ae-461f-a2ec-07a6a32409a6))
  (attribute "MEMORY" (type string) (unit none) (value "128kByte"))
- (part "25LC128" (manufacturer "Microchip")
+ (part "25LC128-I/P" (manufacturer "Microchip")
   (attribute "MEMORY" (type string) (unit none) (value "128kByte"))
  )
 )

@@ -24,4 +24,6 @@
  (pad ddd80cdc-0b36-4f9b-bc1d-a3f4ddae301d (signal 12d69d8f-2bf0-46f0-8be7-fc7cc3bcc049))
  (pad fe1e1286-b227-48cb-9c75-91b7c4d21a64 (signal d5fa8076-a9e7-40e3-aa27-48fd178ca132))
  (pad fe474df2-1651-49d4-9d5f-822ee1e8c7a8 (signal 902ff3b2-86a9-4d6a-b46c-88c64f767b31))
+ (part "EA OLEDM204-GGA" (manufacturer "Display Vision")
+ )
 )

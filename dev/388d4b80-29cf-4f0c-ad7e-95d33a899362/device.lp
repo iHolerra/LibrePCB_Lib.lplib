@@ -16,6 +16,6 @@
  (pad 789c7dd0-d49e-4cf1-95f0-7c4c92166b8f (signal f3302da6-7ea3-47a5-a147-9dbff8ad8d26))
  (pad c04a2f0f-7193-42a8-9847-59867cb4c05d (signal 0ecea5c9-42e9-43b6-9e5b-e6e4d1ac0d28))
  (pad cff5031b-f58c-486b-b919-7da266bbd76e (signal 35d4f439-e40f-4215-bc39-347de7c0eb4c))
- (part "105164-0001" (manufacturer "Molex")
+ (part "1051640001" (manufacturer "Molex")
  )
 )

@@ -28,4 +28,8 @@
  (pad f1a9d8ad-03c0-495e-bbcc-816a12fe612c (signal c5e419e6-9608-4c64-b3bb-30e96896d878))
  (part "ULN2003TTR" (manufacturer "STMicroelectronics")
  )
+ (part "ULN2003V12T16-13" (manufacturer "Diode Inc.")
+ )
+ (part "ULN2003APWR" (manufacturer "Texas Instruments")
+ )
 )

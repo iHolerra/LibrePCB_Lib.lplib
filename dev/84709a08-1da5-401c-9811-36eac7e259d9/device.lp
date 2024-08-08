@@ -1,5 +1,5 @@
 (librepcb_device 84709a08-1da5-401c-9811-36eac7e259d9
- (name "74HC14")
+ (name "Inverter")
  (description "Hex inverting Schmitt trigger")
  (keywords "")
  (author "adrian.kiechl")
@@ -24,6 +24,6 @@
  (pad ed12b9d1-374a-4d1a-a552-6be68daf71f5 (signal a1143b4b-9033-4e2f-b6ae-75d0c443e244))
  (pad f150b3fe-e381-4a41-9120-fee270c1ae59 (signal e0a3866a-4962-41fe-b83f-8dd98d4842ed))
  (pad f66336d7-0d4d-4c31-bd19-1b603df4a399 (signal 39dd093b-1879-4e85-a2d1-c61fbea3d655))
- (part "74HCT14" (manufacturer "Nexpedia")
+ (part "74HC14D,653" (manufacturer "Nexpedia")
  )
 )

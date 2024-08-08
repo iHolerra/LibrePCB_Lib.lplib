@@ -38,4 +38,6 @@
  (pad d6081f10-a9ec-4c41-b0ea-6d4bd89a0ed0 (signal 3a1dd357-10b2-40ad-a173-586d289f2937))
  (pad f3be26cb-405f-4ef7-b132-7f9a61171751 (signal d48a6964-7461-4585-af0b-2d25397c79f6))
  (pad fa6d0662-ef50-4020-8e7c-aa917fac6895 (signal 6b89f2f7-e658-491c-9e1f-57c72f7ef4a6))
+ (part "AVR64DD28-I/SP" (manufacturer "Microchip")
+ )
 )

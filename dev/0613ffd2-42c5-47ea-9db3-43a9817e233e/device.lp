@@ -18,6 +18,6 @@
  (pad 77f3d8f5-8e7f-4fab-906a-76fe905b886a (signal a809cd84-6aad-43a2-b2a1-0f4b6b7da815))
  (pad ca7a042a-80b0-4499-bb1e-f4a4c285bfa5 (signal b85c875d-a1d2-4c69-8d39-609cc7a92fb4))
  (pad e7d9d938-5347-44d2-9bb5-63543f981b49 (signal 627396f3-552b-4289-9bd2-771dd79aed2e))
- (part "INA219" (manufacturer "Texas Instrument")
+ (part "INA219AIDCNR" (manufacturer "Texas Instrument")
  )
 )

@@ -14,6 +14,6 @@
  (pad 917fcb0f-aa13-4e96-9540-96bdc3d865c4 (signal 34d16826-f4a3-477f-bd31-08aa5d956651))
  (pad cbc7f3fd-e6b3-44f6-902c-c21e8fd005f7 (signal efe51b72-31fb-4c71-9dd7-11db5e716048))
  (pad fc544f32-c578-4998-a0b9-9d4cb50a16af (signal 4dd70a58-335f-46d3-9ff3-1d81feab59e9))
- (part "LM317" (manufacturer "Onsemi")
+ (part "LM317MBSTT3G" (manufacturer "Onsemi")
  )
 )

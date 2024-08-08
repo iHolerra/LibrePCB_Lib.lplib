@@ -1,5 +1,5 @@
 (librepcb_device d6b59b81-75ae-4d0a-8561-6abcac0e4452
- (name "74HC4050")
+ (name "Level Shifter")
  (description "Hex non-inverting HIGH-to-LOW level shifter")
  (keywords "")
  (author "adrian.kiechl")
@@ -26,4 +26,8 @@
  (pad dc94b166-11e1-4bd7-879b-4ecf13ddd3dc (signal 419b8d88-29e2-481e-ae8f-34e8f029bb0f))
  (pad e741cd83-41de-419d-ac56-51971edcf406 (signal 91ba7f87-a86c-4275-b1d8-65e71a7ab34c))
  (pad ec8bcbc0-77c6-45e0-a9b6-2bd62a970e96 (signal ef83b50d-e1d9-4028-b318-b7ed877704c5))
+ (part "74HC4050PW,118" (manufacturer "Nexpedia")
+ )
+ (part "CD74HC4050PWR" (manufacturer "Texas Instruments")
+ )
 )

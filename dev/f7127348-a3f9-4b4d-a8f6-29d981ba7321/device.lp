@@ -1,5 +1,5 @@
 (librepcb_device f7127348-a3f9-4b4d-a8f6-29d981ba7321
- (name "CAP1293-1-SN")
+ (name "Capacitive Touch Sensor")
  (description "Capacitive Touch Sensor")
  (keywords "")
  (author "adrian.kiechl")
@@ -18,4 +18,6 @@
  (pad 77f3d8f5-8e7f-4fab-906a-76fe905b886a (signal 46964cff-20fb-4371-955d-14370e9f3c89))
  (pad ca7a042a-80b0-4499-bb1e-f4a4c285bfa5 (signal 178c2c13-55a2-4052-96fe-6f2df126e186))
  (pad e7d9d938-5347-44d2-9bb5-63543f981b49 (signal 6a923148-2b66-476d-ac36-0a74cdc8c5cf))
+ (part "CAP1293-1-SN" (manufacturer "Microchip")
+ )
 )
