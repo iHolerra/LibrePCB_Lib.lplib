@@ -1,5 +1,5 @@
 (librepcb_package a22cb0e6-39c5-4a3b-a310-14158911126d
- (name "USB-C")
+ (name "USB-C Power Only")
  (description "Molex USB-C Power Only")
  (keywords "")
  (author "adrian.kiechl")
@@ -20,7 +20,7 @@
  (footprint e3f4a347-b96d-4043-af2e-24a93b2b7f0e
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 90.0 0.0 0.0)
+  (3d_position 0.0 0.0 0.0) (3d_rotation 90.0 0.0 180.0)
   (3d_model 6d4d2e80-eba9-450c-bdf5-d1fcb34b8c72)
   (pad be6b79db-0232-4c6b-85ed-70075f9ae506 (side top) (shape roundrect)
    (position 2.75 -3.88) (rotation 270.0) (size 1.2 0.8) (radius 0.5)

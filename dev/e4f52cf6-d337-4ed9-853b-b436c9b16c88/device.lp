@@ -1,5 +1,5 @@
 (librepcb_device e4f52cf6-d337-4ed9-853b-b436c9b16c88
- (name "USB-C")
+ (name "USB Type-C")
  (description "USB-C Power Only")
  (keywords "")
  (author "adrian.kiechl")
