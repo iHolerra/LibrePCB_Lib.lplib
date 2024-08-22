@@ -1,6 +1,6 @@
 (librepcb_device 777653f3-f5bb-4892-9e29-aef5e4d7afb5
  (name "Transistor NPN Dual")
- (description "A NPN Dual BJT")
+ (description "Generic Dual NPN Transistor")
  (keywords "")
  (author "adrian.kiechl")
  (version "0.1")

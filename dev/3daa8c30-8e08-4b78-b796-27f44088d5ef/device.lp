@@ -1,5 +1,5 @@
 (librepcb_device 3daa8c30-8e08-4b78-b796-27f44088d5ef
- (name "Open Frame")
+ (name "Open Frame Poti")
  (description "3mm Single-Turn\nOpen Frame Surface Mount\nCermet Trimming\nPotentiometer")
  (keywords "")
  (author "adrian.kiechl")

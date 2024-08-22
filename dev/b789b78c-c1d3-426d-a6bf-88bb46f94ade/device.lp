@@ -1,5 +1,5 @@
 (librepcb_device b789b78c-c1d3-426d-a6bf-88bb46f94ade
- (name "P-Channel MOSFET")
+ (name "MOSFET P-Channel")
  (description "Generic P-Channel MOSFET")
  (keywords "")
  (author "adrian.kiechl")
@@ -15,7 +15,7 @@
  (pad cbce5fc5-105b-4b61-8a17-5eb94bebe0c7 (signal ffa8b604-4419-4a31-b2f6-8dec9edf39c6))
  (part "FQD17P06TM" (manufacturer "Onsemi")
  )
- (part "DMP4051LK3-13" (manufacturer "Diodes Incorporated")
+ (part "DMP4051LK3-13" (manufacturer "Diode Inc.")
  )
  (part "STD26P3LLH6" (manufacturer "STMicroelectronics")
  )

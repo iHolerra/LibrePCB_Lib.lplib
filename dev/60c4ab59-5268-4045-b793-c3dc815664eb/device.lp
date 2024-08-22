@@ -18,7 +18,7 @@
  (pad 77f3d8f5-8e7f-4fab-906a-76fe905b886a (signal 0664eb55-0f90-4ba4-936a-717e2f0af75a))
  (pad ca7a042a-80b0-4499-bb1e-f4a4c285bfa5 (signal 8863a83a-265e-429d-9ea5-6078a3d38fc6))
  (pad e7d9d938-5347-44d2-9bb5-63543f981b49 (signal 82c94805-0c5f-4863-9fa6-e6299dd566db))
- (part "DMN2029USD-13" (manufacturer "Diodes Incorporated")
+ (part "DMN2029USD-13" (manufacturer "Diode Inc.")
   (attribute "RDSON" (type resistance) (unit milliohm) (value "25"))
  )
 )
