@@ -1,5 +1,5 @@
 (librepcb_device 8ee4bfb6-03db-4ff9-b178-7fa67f16768d
- (name "PV37")
+ (name "PV37W")
  (description "Bourns PV37 Series Trimmpotentiometer")
  (keywords "poti, PV37")
  (author "adrian.kiechl")

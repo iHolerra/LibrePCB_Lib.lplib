@@ -1,5 +1,5 @@
 (librepcb_package bc9c7aa3-14e1-4620-a014-e161e2c1104f
- (name "PV36")
+ (name "PV36W")
  (description "Bourns PV36 Series Trimmpotentiometer")
  (keywords "")
  (author "Holerra")
