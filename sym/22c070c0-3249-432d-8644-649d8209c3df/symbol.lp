@@ -7,7 +7,7 @@
  (created 2024-07-23T05:51:07Z)
  (deprecated false)
  (generated_by "")
- (category f9db4ef5-2220-462a-adff-deac8402ecf0)
+ (category 6eb1e60c-9c2b-439c-a2c5-8df7edbeeb98)
  (pin e9b9e568-1ecf-4318-98c3-f24ea3edbc90 (name "1")
   (position 10.16 2.54) (rotation 180.0) (length 2.54)
   (name_position 3.81 0.0) (name_rotation 0.0) (name_height 2.5)

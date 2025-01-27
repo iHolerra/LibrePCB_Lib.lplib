@@ -7,7 +7,7 @@
  (created 2024-07-23T05:53:46Z)
  (deprecated false)
  (generated_by "")
- (category f9db4ef5-2220-462a-adff-deac8402ecf0)
+ (category 6eb1e60c-9c2b-439c-a2c5-8df7edbeeb98)
  (schematic_only false)
  (default_value "{{MPN or DEVICE or COMPONENT}}")
  (prefix "J")
