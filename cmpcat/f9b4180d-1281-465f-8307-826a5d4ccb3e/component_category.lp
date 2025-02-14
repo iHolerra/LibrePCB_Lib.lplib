@@ -1,0 +1,10 @@
+(librepcb_component_category f9b4180d-1281-465f-8307-826a5d4ccb3e
+ (name "Microphone")
+ (description "")
+ (keywords "")
+ (author "Holerra")
+ (version "0.1")
+ (created 2025-01-25T21:43:16Z)
+ (deprecated false)
+ (parent 5347fa0a-108b-4fa0-b97d-947d35c218be)
+)
