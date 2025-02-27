@@ -12,8 +12,6 @@
  (package 3c2a53bb-4cac-42e1-a185-f0f577096321)
  (pad 4640fb96-8dac-4a8f-9bd2-c3a5d78f1685 (signal 4c215f30-3492-4a32-94d3-7f3541afb7db))
  (pad e9b57c99-2eb1-4224-a73d-88c7ce3599b3 (signal 33616b61-b981-452a-a672-e564bfabf6b1))
- (part "430181038816" (manufacturer "Würth")
- )
  (part "PTS 647 SN50 SMTR2 LFS" (manufacturer "C&K")
  )
 )
