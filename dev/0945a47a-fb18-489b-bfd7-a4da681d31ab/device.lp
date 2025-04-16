@@ -1,5 +1,5 @@
 (librepcb_device 0945a47a-fb18-489b-bfd7-a4da681d31ab
- (name "P-Channel MOSFET")
+ (name "MOSFET P-Channel")
  (description "Power P-Channel MOSFET")
  (keywords "")
  (author "adrian.kiechl")
