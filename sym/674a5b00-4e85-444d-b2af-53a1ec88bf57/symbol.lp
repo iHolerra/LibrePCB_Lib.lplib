@@ -43,7 +43,7 @@
   (name_position 3.81 0.0) (name_rotation 0.0) (name_height 2.5)
   (name_align left center)
  )
- (pin 161340ba-ad29-4942-bfe5-32848f6a8f0e (name "E")
+ (pin 161340ba-ad29-4942-bfe5-32848f6a8f0e (name "GND")
   (position -12.7 -10.16) (rotation 0.0) (length 2.54)
   (name_position 3.81 0.0) (name_rotation 0.0) (name_height 2.5)
   (name_align left center)

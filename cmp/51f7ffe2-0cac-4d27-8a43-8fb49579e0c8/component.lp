@@ -35,7 +35,7 @@
  (signal c5e419e6-9608-4c64-b3bb-30e96896d878 (name "C6") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
- (signal fc2ca6f5-e27a-455f-a311-d7b0815ef160 (name "E") (role passive)
+ (signal fc2ca6f5-e27a-455f-a311-d7b0815ef160 (name "GND") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
  (signal 8dea2f2f-bccb-4074-a292-a47d3ea87dd5 (name "C1") (role passive)
