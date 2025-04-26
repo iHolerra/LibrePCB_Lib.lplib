@@ -14,10 +14,12 @@
  (pad 23a4528f-d11b-4466-a60a-a7d871387886 (name "A"))
  (pad 156f3a34-ea37-40d0-ba2b-f32bb108ed76 (name "C"))
  (pad 3852d2e2-9fb2-439b-8a55-1cefd6cf7f19 (name "B"))
+ (3d_model 94bf4dfe-90e1-4a5a-81f3-0a52a1e6e876 (name "PEC12R-4120F-S0012"))
  (footprint cc5b2e06-24b4-43b0-8666-fd0e6c83fa59
   (name "default")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 0.0 0.0) (3d_rotation 90.0 0.0 0.0)
+  (3d_model 94bf4dfe-90e1-4a5a-81f3-0a52a1e6e876)
   (pad 37a1540b-8572-4e42-b28f-14b0c7df5d7b (side top) (shape roundrect)
    (position -2.5 7.0) (rotation 90.0) (size 2.5 1.5) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)
