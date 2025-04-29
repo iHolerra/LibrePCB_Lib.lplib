@@ -14,4 +14,6 @@
  (pad e9b57c99-2eb1-4224-a73d-88c7ce3599b3 (signal 33616b61-b981-452a-a672-e564bfabf6b1))
  (part "PTS 647 SN50 SMTR2 LFS" (manufacturer "C&K")
  )
+ (part "B3U-1100P" (manufacturer "Omron")
+ )
 )
