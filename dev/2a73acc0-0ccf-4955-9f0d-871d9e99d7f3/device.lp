@@ -1,5 +1,5 @@
 (librepcb_device 2a73acc0-0ccf-4955-9f0d-871d9e99d7f3
- (name "Transistro NPN")
+ (name "Transistor NPN")
  (description "")
  (keywords "")
  (author "Holerra")
