@@ -33,6 +33,7 @@
  (pad e7cff0c8-300e-4928-ac3a-51210c7f33ee (name "22"))
  (pad bac4e914-d281-4b45-a8cc-b51339385b60 (name "23"))
  (pad e182d9ea-c1ca-4775-8b7d-05410f2a7979 (name "24"))
+ (pad 3b963b81-e7e1-492e-a9cc-8d71703431f3 (name "25"))
  (3d_model 9cf286af-daa4-4413-b902-41ed0bfc6e2c (name "CYPD3177-24LQXQT_CYP"))
  (footprint da1a7e4e-87d4-4cb4-95c4-4fd03d902ed0
   (name "default")
@@ -162,7 +163,7 @@
   (pad 75b38617-32bc-4828-b2f2-173b6ae9e756 (side top) (shape roundrect)
    (position 0.0 0.0) (rotation 90.0) (size 2.45 2.45) (radius 0.2)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)
-   (package_pad e7cff0c8-300e-4928-ac3a-51210c7f33ee)
+   (package_pad 3b963b81-e7e1-492e-a9cc-8d71703431f3)
   )
   (polygon 4fc12951-38d1-46db-93b8-2467f6da56fc (layer top_documentation)
    (width 0.2) (fill false) (grab_area false)
