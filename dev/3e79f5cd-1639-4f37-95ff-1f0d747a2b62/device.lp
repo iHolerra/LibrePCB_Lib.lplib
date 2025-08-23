@@ -1,5 +1,5 @@
 (librepcb_device 3e79f5cd-1639-4f37-95ff-1f0d747a2b62
- (name "AVR32DD32T-I/RXB")
+ (name "AVR32DD32")
  (description "Atmel MCU")
  (keywords "")
  (author "adrian.kiechl")

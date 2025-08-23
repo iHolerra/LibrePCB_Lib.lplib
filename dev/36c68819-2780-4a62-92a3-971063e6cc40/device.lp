@@ -1,10 +1,10 @@
-(librepcb_device f016a802-523f-4cca-9cd3-f825d933d38e
+(librepcb_device 36c68819-2780-4a62-92a3-971063e6cc40
  (name "AVR32DD28")
- (description "MCU")
+ (description "AVR Microcontroller")
  (keywords "")
- (author "adrian.kiechl")
+ (author "Unknown")
  (version "0.1")
- (created 2025-06-24T06:39:50Z)
+ (created 2025-08-23T19:08:09Z)
  (deprecated false)
  (generated_by "")
  (category 22151601-c2d9-419a-87bc-266f9c7c3459)
@@ -38,6 +38,6 @@
  (pad ee0e5550-3837-4134-adca-db43ec17a225 (signal f0f9d85d-6f65-4267-aef0-28ab5f85cfb4))
  (pad fbd715b4-b44f-4eea-b38e-605d988bed1c (signal 9d5d10fd-93fa-4c90-82cf-5db22e6e4878))
  (pad ff2d2853-1ba5-4e89-a69a-65c86af82ab9 (signal a7d2353c-230b-4ec0-92ca-219527758f30))
- (part "AVR32DD28T-I/SO" (manufacturer "Microchip")
+ (part "AVR32DD28-I/SO" (manufacturer "Microchip")
  )
 )
