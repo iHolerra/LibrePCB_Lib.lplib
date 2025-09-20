@@ -1,0 +1,10 @@
+(librepcb_package_category b88d1af3-8610-4e72-9912-b79915317242
+ (name "Mini Small Outline Package (MSOP)")
+ (description "")
+ (keywords "")
+ (author "Holerra")
+ (version "0.1")
+ (created 2025-09-15T12:18:58Z)
+ (deprecated false)
+ (parent 51a8dc64-d5b5-4bc4-b920-c914707c8341)
+)
