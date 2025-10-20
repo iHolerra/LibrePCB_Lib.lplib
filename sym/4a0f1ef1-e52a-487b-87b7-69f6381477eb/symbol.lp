@@ -1,5 +1,5 @@
 (librepcb_symbol 4a0f1ef1-e52a-487b-87b7-69f6381477eb
- (name "AVR64DD28")
+ (name "AVR-DD28")
  (description "AVR Microcontroller")
  (keywords "")
  (author "adrian.kiechl")

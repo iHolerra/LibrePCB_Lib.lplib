@@ -1,5 +1,5 @@
 (librepcb_symbol 0561d9bf-e284-46d6-842c-5864ffa7f5ed
- (name "AVR32DD32")
+ (name "AVR-DD32")
  (description "Atmel MCU")
  (keywords "")
  (author "adrian.kiechl")

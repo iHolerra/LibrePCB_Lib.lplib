@@ -1,5 +1,5 @@
 (librepcb_symbol 65d8ad55-c332-4585-8c38-4b46538f3d9d
- (name "AVR32DB28")
+ (name "AVR-DB28")
  (description "AVR Microcontroller")
  (keywords "")
  (author "Holerra")

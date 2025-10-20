@@ -1,5 +1,5 @@
 (librepcb_device 2e4f3fe0-b386-4f13-99cc-6178d3108e76
- (name "AVR16DD14")
+ (name "AVR-DD14")
  (description "AVR Microcontroller")
  (keywords "")
  (author "adrian.kiechl")

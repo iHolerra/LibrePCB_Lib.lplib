@@ -1,5 +1,5 @@
 (librepcb_symbol 86731f9e-c88a-4bd1-acf4-d0a333ae4c95
- (name "AVR16DD14")
+ (name "AVR-DD14")
  (description "AVR Microcontroller")
  (keywords "")
  (author "adrian.kiechl")

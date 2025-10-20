@@ -1,5 +1,5 @@
 (librepcb_device 9106eb0b-ecf7-496b-be79-de201cb0d9e6
- (name "AVR32DD28")
+ (name "AVR-DD28")
  (description "AVR Microcontroller")
  (keywords "")
  (author "Unknown")
