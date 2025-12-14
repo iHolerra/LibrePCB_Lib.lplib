@@ -1,0 +1,10 @@
+(librepcb_component_category 0958598e-ac7e-48fd-b299-83f74ad35100
+ (name "Dummies")
+ (description "")
+ (keywords "")
+ (author "Holerra")
+ (version "0.1")
+ (created 2025-12-01T14:06:33Z)
+ (deprecated false)
+ (parent none)
+)
