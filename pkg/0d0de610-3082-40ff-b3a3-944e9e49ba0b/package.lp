@@ -1,0 +1,18 @@
+(librepcb_package 0d0de610-3082-40ff-b3a3-944e9e49ba0b
+ (name "USB Edge Connector")
+ (description "USB Edge Connector for PCBs")
+ (keywords "")
+ (author "adrian.kiechl")
+ (version "0.1")
+ (created 2025-11-19T10:47:55Z)
+ (deprecated false)
+ (generated_by "")
+ (category 66add33e-fb54-4864-bae3-a899b380cb90)
+ (assembly_type auto)
+ (pad 5509bd58-40f4-433b-a81f-456e59c8c4b3 (name "1"))
+ (footprint 4c7a2e4c-0eb2-4847-ad75-9a4e930ad3ab
+  (name "default")
+  (description "")
+  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+ )
+)
