@@ -10,5 +10,7 @@
  (category 213bd44f-f375-41d8-8fdd-0652eb893e27)
  (component e2659029-10eb-42f4-af23-41301bb12569)
  (package ca5ec2d9-b30c-4a9c-a91a-3abb3537a98b)
- (pad e2680ce1-db2e-4cc1-b1c0-1dc705b6c76c (signal 1971710b-f66e-4a90-9a87-6d1affef5cd0))
+ (pad e2680ce1-db2e-4cc1-b1c0-1dc705b6c76c (optional false)
+  (signal 1971710b-f66e-4a90-9a87-6d1affef5cd0)
+ )
 )

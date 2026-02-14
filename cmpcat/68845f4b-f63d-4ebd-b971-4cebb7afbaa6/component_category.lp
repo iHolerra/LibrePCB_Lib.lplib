@@ -1,0 +1,10 @@
+(librepcb_component_category 68845f4b-f63d-4ebd-b971-4cebb7afbaa6
+ (name "Current Sensor")
+ (description "")
+ (keywords "")
+ (author "Unknown")
+ (version "0.1")
+ (created 2026-02-14T11:04:22Z)
+ (deprecated false)
+ (parent 5347fa0a-108b-4fa0-b97d-947d35c218be)
+)

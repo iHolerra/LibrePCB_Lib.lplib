@@ -9,6 +9,8 @@
  (generated_by "")
  (category 66add33e-fb54-4864-bae3-a899b380cb90)
  (assembly_type auto)
+ (grid_interval 2.54)
+ (min_copper_clearance 0.2)
  (pad 5509bd58-40f4-433b-a81f-456e59c8c4b3 (name "1"))
  (footprint 4c7a2e4c-0eb2-4847-ad75-9a4e930ad3ab
   (name "default")

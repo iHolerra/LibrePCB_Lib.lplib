@@ -83,5 +83,4 @@
    (pin f9fe40cc-1294-4330-9235-239be5ea69a3 (signal 9f339f91-80cc-443d-9b68-5275b94f697f) (text none))
   )
  )
- (approved empty_default_value)
 )
