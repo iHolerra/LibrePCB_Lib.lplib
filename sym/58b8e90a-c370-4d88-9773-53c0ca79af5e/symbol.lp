@@ -8,6 +8,7 @@
  (deprecated false)
  (generated_by "")
  (category a621d579-8715-4edf-816e-5715f97cd2d7)
+ (grid_interval 2.54)
  (pin c8c71b89-f498-4444-aeed-f410fe255b3b (name "!CS/SHDN")
   (position -10.16 2.54) (rotation 0.0) (length 2.54)
   (name_position 3.81 0.0) (name_rotation 0.0) (name_height 2.5)

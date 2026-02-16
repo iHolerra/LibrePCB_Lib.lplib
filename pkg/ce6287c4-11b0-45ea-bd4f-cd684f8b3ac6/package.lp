@@ -9,6 +9,8 @@
  (generated_by "")
  (category 92943488-b68c-400e-8338-589fe4081b8a)
  (assembly_type auto)
+ (grid_interval 2.54)
+ (min_copper_clearance 0.2)
  (pad 1dffa1d7-cb91-4782-a18a-0182b3185b2a (name "1"))
  (pad d0c87fc4-f6f0-42ed-8b2d-a15b1e1801c0 (name "2"))
  (pad 6d3144dc-7d8c-4965-835e-8d9aaf03ae33 (name "3"))
