@@ -15,10 +15,12 @@
  (pad eae671ca-dc61-44bc-92fc-6372890d6d76 (name "R"))
  (pad becf3d07-2568-4ed4-9ef0-4065e10b1c23 (name "G"))
  (pad ce96e024-22b6-4a9c-aa0c-4ac50b490194 (name "B"))
+ (3d_model 0db5b1e3-ac2c-44e8-8754-364d10abb789 (name "Download_STEP_150141M173100+(rev1)"))
  (footprint b51aa5e0-9935-426c-bda3-a7c5aab11b7d
   (name "default")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model 0db5b1e3-ac2c-44e8-8754-364d10abb789)
   (pad f74f45e4-12a8-4c35-90e5-e64790b49f31 (side top) (shape roundrect)
    (position 1.55 0.7) (rotation 0.0) (size 1.5 0.9) (radius 0.5)
    (stop_mask auto) (solder_paste auto) (clearance 0.0) (function standard)
