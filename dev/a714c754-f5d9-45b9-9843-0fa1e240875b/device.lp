@@ -1,5 +1,5 @@
 (librepcb_device a714c754-f5d9-45b9-9843-0fa1e240875b
- (name "STM32G030KxT (LQFP80P900X900X140-32)")
+ (name "STM32G030KxT")
  (description "STM32 Arm Cortex M0+ MCU")
  (keywords "stm")
  (author "Holerra")
