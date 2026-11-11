@@ -21,7 +21,7 @@
  (footprint 211ddee4-0cb8-4c03-ad6b-347950a60b2b
   (name "default")
   (description "")
-  (3d_position 0.0 2.0 0.0) (3d_rotation 90.0 0.0 0.0)
+  (3d_position 0.0 2.0 0.3) (3d_rotation 90.0 0.0 0.0)
   (3d_model 4277065e-4f2b-47e7-843a-3b0c66c4f893)
   (pad d65440f7-b3ba-406e-9c92-452814210858 (side top) (shape roundrect)
    (position -1.3 0.69) (rotation 270.0) (size 1.38 0.45) (radius 0.0)
